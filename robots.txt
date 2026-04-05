@@ -6,4 +6,4 @@ Disallow: /admin/
 Disallow: /login/
 
 # Sitemap
-Sitemap: https://domainkamu.com/sitemap.xml
+Sitemap: https://ojolstream.org/sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Blok halaman tidak penting (opsional)
+Disallow: /admin/
+Disallow: /login/
+
+# Sitemap
+Sitemap: https://domainkamu.com/sitemap.xml
